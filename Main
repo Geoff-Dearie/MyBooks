@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Books</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>My Books</h1>
+  </header>
+  <main>
+    <section class="book">
+      <h2>Book Title 1</h2>
+      <p>Description of Book 1</p>
+      <a href="https://www.amazon.com/link-to-book-1" target="_blank">Buy on Amazon</a>
+    </section>
+    <section class="book">
+      <h2>Book Title 2</h2>
+      <p>Description of Book 2</p>
+      <a href="https://www.amazon.com/link-to-book-2" target="_blank">Buy on Amazon</a>
+    </section>
+    <!-- Add more book sections as needed -->
+  </main>
+  <footer>
+    <p>&copy; 2024 Your Name</p>
+  </footer>
+</body>
+</html>
